@@ -1,4 +1,4 @@
-![Preview da aplicação](image.png)
+![Preview da aplicação CodeConnect](img/image.png)
 
 # CodeConnect
 
