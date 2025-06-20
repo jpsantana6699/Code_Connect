@@ -1,9 +1,12 @@
-
-![Capa do repositório do curso, contendo no canto superior esquerdo o símbolo do github com o texto /alura-cursos, e no direito o logo da alura. Abaixo possuímos o título React: componentes e JSX com o subtítulo aprendendo a construir componentes reutilizáveis. Por fim, no canto inferior direito, há o logo da escola de front-end.](https://imgur.com/n21Gypa.png)
+![Preview da aplicação](image.png)
 
 # CodeConnect
 
-Rede social para pessoas desenvolvedoras chamada CodeConnect para o curso de React: componentes e JSX.
+CodeConnect é uma rede social desenvolvida especificamente para pessoas desenvolvedoras. Este projeto foi criado como parte do curso de React focado em componentes e JSX, implementando uma página de login moderna e funcional.
+
+## 📱 Preview da Aplicação
+
+A imagem acima mostra como ficou a interface da página de login do CodeConnect, com design moderno e responsivo.
 
 ## 🔨 Funcionalidades do projeto
 
@@ -22,10 +25,6 @@ As técnicas e tecnologias utilizadas pra isso são:
 - `useState`: Hook no React que permite adicionar estado a componentes funcionais.
 - `Manipulação de eventos`: Ação de responder a interações do usuário, como cliques e teclas pressionadas, em aplicações web.
 
-## 📁 Acesso ao projeto
-
-Você pode [acessar o código fonte do projeto inicial](https://github.com/MonicaHillman/3492-React-componentesi/tree/projeto-base) ou [baixá-lo](https://github.com/MonicaHillman/3492-React-componentes/archive/refs/heads/projeto-base.zip).
-
 ## 🎨 Figma
 
 Você pode conferir o Figma da aplicação clicando [aqui](https://www.figma.com/file/SASyBm2k3IlqrO8qI1Otg1/CodeConnect-%7C-React%3A-Componentização-e-conceitos-básicos-(JSX)).
@@ -39,3 +38,7 @@ Após baixar o projeto, você pode abrir com o Visual Studio Code. Para isso, na
 - Por fim clique em OK
 
 Você pode abrir diretamente o arquivo index.html no seu navegador ou usar uma extensão como o ``Live Server``.
+
+---
+
+**Projeto desenvolvido por João Pedro Santana**
